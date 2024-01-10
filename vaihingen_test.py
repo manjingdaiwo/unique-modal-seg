@@ -17,7 +17,7 @@ from torch import nn
 from torch.backends import cudnn
 cudnn.benchmark = True
 from tqdm import tqdm
-
+import IPython
 
 # model = resnet50().to(device)
 
