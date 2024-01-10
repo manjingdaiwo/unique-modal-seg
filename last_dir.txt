@@ -1,0 +1,3 @@
+/home/a1/ss/semantic_segmentation/my_segmodel/checkpoints/lanet/vai/07-05-23:18/best
+/home/a1/ss/semantic_segmentation/my_segmodel/checkpoints/lanet/vai/07-05-23:18/regular
+/home/a1/ss/semantic_segmentation/my_segmodel/logs/lanet/vai/07-05-23:18
